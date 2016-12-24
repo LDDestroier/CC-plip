@@ -25,7 +25,7 @@ for index=1, math.floor(#lines/7) do
     local blank = lines[7 + line_offset]
     local ed = ref .. ",{[\"name\"]=\"" .. name .. "\",[\"author\"]=\"" .. author .. "\",[\"downloadURL\"]=\"" .. download .. "\",[\"suggestedLocation\"]=\"" .. location .. "\",[\"launchAfterDownload?\"]=" .. autorun .. "}\n"
     end_data=end_data .. ed
-	package_list = package_list.."##" .. ref .. "\n - AppName: " .. name .. "\n - Author: " .. author .. "\n - Download: " .. download .. "\n - Suggested Location: ``" .. location .. "``\n - Autoruns: " .. autorun .. "\n"
+	package_list = package_list.."##" .. ref .. "\n- AppName: " .. name .. "\n- Author: " .. author .. "\n- Download: " .. download .. "\n- Suggested Location: ``" .. location .. "``\n- Autoruns: " .. autorun .. "\n\n"
     print(ed)
 end
 
