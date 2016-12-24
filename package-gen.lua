@@ -10,6 +10,7 @@ data = xHandler:read("*a")
 xHandler:close()
 
 local end_data = ""
+local package_list = "# Packages List\nThis a list of all of the downloadable packages there are.\n\n"
 
 lines = data:split("\n")
 print("Lines = " .. #lines)
@@ -24,11 +25,16 @@ for index=1, math.floor(#lines/7) do
     local blank = lines[7 + line_offset]
     local ed = ref .. ",{[\"name\"]=\"" .. name .. "\",[\"author\"]=\"" .. author .. "\",[\"downloadURL\"]=\"" .. download .. "\",[\"suggestedLocation\"]=\"" .. location .. "\",[\"launchAfterDownload?\"]=" .. autorun .. "}\n"
     end_data=end_data .. ed
+	package_list = package_list.."##" .. ref .. "\n - AppName: " .. name .. "\n - Author: " .. author .. "\n - Download: " .. download .. "\n - Suggested Location: ``" .. location .. "``\n - Autoruns: " .. autorun .. "\n"
     print(ed)
 end
 
 ak=io.open("packageList.txt","wb")
 ak:write(end_data)
+ak:close()
+
+ak=io.open("packages.md","wb")
+ak:write(package_list)
 ak:close()
 
 io.read()
