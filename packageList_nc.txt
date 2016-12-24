@@ -229,6 +229,34 @@ http://pastebin.com/raw/Mm5hd97E
 sketch
 false
 -----
+gchat
+GChat
+MysticT @ https://github.com/MysticT
+http://pastebin.com/raw/q13Pv8JD
+gchat
+false
+-----
+googol
+Googol
+Imgoodisher @ https://github.com/Imgoodisher
+http://pastebin.com/raw/EmssRF7b
+googol
+false
+-----
+glass
+Glass
+Geforce Fan @ http://www.computercraft.info/forums2/index.php?/user/4662-geforce-fan/
+http://pastebin.com/raw/yJgWrGpY
+glass-install
+true
+-----
+firebox
+Firebox
+Left4Cake @ http://www.computercraft.info/forums2/index.php?/user/2466-left4cake/
+http://pastebin.com/raw/4LXcjgDb
+firebox
+false
+-----
 opus
 Opus Editor
 Kepler @ http://www.computercraft.info/forums2/index.php?/user/63530-kepler/
