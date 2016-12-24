@@ -1,0 +1,35 @@
+plip
+Plip
+Pyuu @ https://github.com/PyuuCH/
+https://raw.githubusercontent.com/PyuuCH/CC-plip/master/plip.lua
+plip
+false
+-----
+krist
+Krist Wallet
+3d6 @ https://github.com/BTCTaras
+http://pastebin.com/raw/CChWjRx6
+kristwallet
+false
+-----
+npaintpro
+NPaintPro
+NitrogenFingers @ https://github.com/nitrogenfingers
+http://pastebin.com/raw/pzWSRqNF
+npaintpro
+false
+-----
+opus
+Opus Editor
+Kepler @ http://www.computercraft.info/forums2/index.php?/user/63530-kepler/
+http://pastebin.com/raw/pEFCYXX1
+edit.lua
+false
+-----
+opus-os
+Opus OS
+Kepler @ http://www.computercraft.info/forums2/index.php?/user/63530-kepler/
+http://pastebin.com/raw/sj4VMVJj
+opus-installer
+true
+-----
