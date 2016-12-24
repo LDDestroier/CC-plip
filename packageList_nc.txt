@@ -341,3 +341,10 @@ http://pastebin.com/raw/sj4VMVJj
 opus-installer
 true
 -----
+brainf
+BrainF Compiler / Interpreter
+Pyuu @ https://github.com/PyuuCH/
+http://pastebin.com/raw/tWfePq7M
+brainf
+false
+-----
