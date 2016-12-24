@@ -59,7 +59,7 @@ function fetchPackageList ()
     if (httpHandler.close) then httpHandler:close() end
     local dataLines = string.split(data,"\n") -- CC doesn't support the object oriented stuff pure lua does.
     for index=1, #dataLines do
-        local packageName = dataLines[index]:sub(1,dataLines[index]:find(",")-1)
+        local packageName = dataLines[index]:sub(1,dataLines[index]:find("%,")-1)
         local packageData = textutils.unserialize(dataLines[index]:sub(packageName:len()+2))
         plip_packages[packageName]=packageData
     end
