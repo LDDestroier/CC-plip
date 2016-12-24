@@ -103,6 +103,34 @@ http://pastebin.com/raw/qpWzu0HA
 questserver
 false
 -----
+wire
+WiRe Client
+Dog @ http://www.computercraft.info/forums2/index.php?/user/22883-dog/
+http://pastebin.com/raw/jtFa7V1n
+startup
+false
+-----
+wire-server
+WiRe Server
+Dog @ http://www.computercraft.info/forums2/index.php?/user/22883-dog/
+http://pastebin.com/raw/hqpRw4Jy
+startup
+false
+-----
+nsh
+nsh
+Lyqyd @ https://github.com/lyqyd
+http://pastebin.com/raw/X5Fysdi4
+nsh
+false
+-----
+nsh-framebuffer
+nsh-framebuffer
+Lyqyd @ https://github.com/lyqyd
+http://pastebin.com/raw/Aaza6h5v
+framebuffer
+false
+-----
 opus
 Opus Editor
 Kepler @ http://www.computercraft.info/forums2/index.php?/user/63530-kepler/
