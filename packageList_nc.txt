@@ -47,6 +47,34 @@ http://pastebin.com/raw/9UhE8Nz
 startup
 false
 -----
+openbee
+Bee Breeding
+McLeopold @ https://github.com/Forte40
+http://pastebin.com/raw/Nq5jEJfM
+openbee-install
+true
+-----
+discover
+Discover App
+DannySMc @ http://git.dannysmc.com/dannysmc95
+http://pastebin.com/raw/MmnFkANZ
+discover-install
+true
+-----
+elevator-control
+Elevator Control
+Ominous Penguin @ http://www.computercraft.info/forums2/index.php?/user/1468-ominouspenguin/
+http://pastebin.com/raw/VYwxa3su
+setup
+true
+-----
+plastic
+Plastic Alpha [WIP]
+1lann @ https://github.com/1lann
+http://pastebin.com/raw/43nHyKXU
+plastic
+false
+-----
 opus
 Opus Editor
 Kepler @ http://www.computercraft.info/forums2/index.php?/user/63530-kepler/
