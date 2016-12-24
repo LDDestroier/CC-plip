@@ -159,6 +159,41 @@ http://pastebin.com/raw/TfeHE7Wy
 startup
 false
 -----
+graffiti
+Graffiti
+encreedem @ https://github.com/Encreedem
+http://pastebin.com/raw/reMpHkBb
+graffiti
+false
+-----
+rednet-explorer-2.4
+Rednet Explorer 2.4
+ComputerCraftFan11 @ http://www.computercraft.info/forums2/index.php?/user/93-computercraftfan11/
+http://pastebin.com/raw/CuqtxjvM
+rednet-explorer
+false
+-----
+tek-os
+tekOS
+ChaddJackson12 @ http://www.computercraft.info/forums2/index.php?/user/3087-chaddjackson12/
+http://pastebin.com/raw/6Dcwq1UQ
+startup
+false
+-----
+rednet-explorer
+Rednet Explorer 3.1 Beta
+ComputerCraftFan11 @ http://www.computercraft.info/forums2/index.php?/user/93-computercraftfan11/
+http://pastebin.com/raw/1EAc6tFd
+rednet-explorer
+false
+-----
+talk
+Talk
+GopherAtl @ https://github.com/GopherAtl
+http://pastebin.com/raw/6Dcwq1UQ
+talk
+false
+-----
 opus
 Opus Editor
 Kepler @ http://www.computercraft.info/forums2/index.php?/user/63530-kepler/
