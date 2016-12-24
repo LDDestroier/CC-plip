@@ -75,6 +75,34 @@ http://pastebin.com/raw/43nHyKXU
 plastic
 false
 -----
+lightshot
+Lightshot
+GravityScore @ https://github.com/GravityScore
+http://pastebin.com/raw/g0nVKvgr
+lightshot
+false
+-----
+lft
+Little Farming Turtle
+BigSHinyToys @ http://www.computercraft.info/forums2/index.php?/user/932-bigshinytoys/
+http://pastebin.com/raw/9iWXU3r1
+Farm2
+false
+-----
+quest
+Quest
+oeed @ https://github.com/oeed
+http://pastebin.com/raw/VDUGPdiA
+quest
+false
+-----
+quest-server
+Quest Server
+oeed @ https://github.com/oeed
+http://pastebin.com/raw/qpWzu0HA
+questserver
+false
+-----
 opus
 Opus Editor
 Kepler @ http://www.computercraft.info/forums2/index.php?/user/63530-kepler/
