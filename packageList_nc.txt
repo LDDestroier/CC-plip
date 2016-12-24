@@ -257,6 +257,48 @@ http://pastebin.com/raw/4LXcjgDb
 firebox
 false
 -----
+laserblast
+LaserBlast
+NitrogenFingers @ https://github.com/nitrogenfingers
+http://pastebin.com/raw/puBfD8SAe
+laserblast
+false
+-----
+redfile
+RedFile
+MKlegoman357 @ https://github.com/MKlegoman357
+http://pastebin.com/raw/XeZ2eaBx
+redfile
+false
+-----
+bluenet
+Bluenet
+wilcomega @ http://www.computercraft.info/forums2/index.php?/user/245-wilcomega/
+http://pastebin.com/raw/JDXM9i2P
+bluenet-install
+true
+-----
+lattice
+Lattice
+Konlab @ https://github.com/Konlab
+http://pastebin.com/raw/5A2xujvw
+lattice
+false
+-----
+luva
+Luva
+Detective_Smith @ https://github.com/DetectiveSmith
+http://pastebin.com/raw/Kus6yZwV
+luva
+false
+-----
+dark-chat
+DarkChat
+darkrising @ https://github.com/darkrising
+http://pastebin.com/raw/N22T449A
+darkchat
+false
+-----
 opus
 Opus Editor
 Kepler @ http://www.computercraft.info/forums2/index.php?/user/63530-kepler/
