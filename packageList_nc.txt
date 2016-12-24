@@ -348,3 +348,10 @@ http://pastebin.com/raw/tWfePq7M
 brainf
 false
 -----
+gpsminimap
+GPS Minimap
+EldidiStroyrr @ http://www.computercraft.info/forums2/index.php?/user/28731-eldidistroyrr/
+http://pastebin.com/raw/x9ajKSc0
+map
+false
+-----
