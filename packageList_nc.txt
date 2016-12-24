@@ -131,6 +131,34 @@ http://pastebin.com/raw/Aaza6h5v
 framebuffer
 false
 -----
+darklands
+Darklands: Tales from Transylvania
+NitrogenFingers @ https://github.com/nitrogenfingers
+http://pastebin.com/raw/F3AifzEu
+darklands
+true
+-----
+cctunes
+ccTunes
+Left4Cake @ http://www.computercraft.info/forums2/index.php?/user/2466-left4cake/
+http://pastebin.com/raw/45zqrWfX
+cctunes
+false
+-----
+bst-mouse-file-browser
+Mouse File Browser
+BigSHinyToys @ http://www.computercraft.info/forums2/index.php?/user/932-bigshinytoys/
+http://pastebin.com/raw/pnzdr8FB
+browser
+false
+-----
+rfcc
+Redstone Flux Control Center
+dragonlord @ http://www.computercraft.info/forums2/index.php?/user/5558-dragonlord/
+http://pastebin.com/raw/TfeHE7Wy
+startup
+false
+-----
 opus
 Opus Editor
 Kepler @ http://www.computercraft.info/forums2/index.php?/user/63530-kepler/
