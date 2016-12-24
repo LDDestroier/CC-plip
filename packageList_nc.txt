@@ -299,6 +299,34 @@ http://pastebin.com/raw/N22T449A
 darkchat
 false
 -----
+packman
+Packman
+Lyqyd @ https://github.com/lyqyd
+http://pastebin.com/raw/4zyreNZy
+get-packman
+true
+-----
+ink
+Ink
+oeed @ https://github.com/oeed
+http://pastebin.com/raw/JxzXPv03
+ink
+false
+-----
+ice-browser
+Ice-Browser
+Cutecurtain @ http://www.computercraft.info/forums2/index.php?/user/11864-cutecurtain/
+http://pastebin.com/raw/hUN4PGkv
+ice-browser
+false
+-----
+osrunner
+OSRunner
+MudkipTheEpic @ https://github.com/MudkipTheEpic
+http://pastebin.com/raw/BNAxvJ1a
+osrunner-install
+true
+-----
 opus
 Opus Editor
 Kepler @ http://www.computercraft.info/forums2/index.php?/user/63530-kepler/
