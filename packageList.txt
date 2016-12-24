@@ -1,0 +1,1 @@
+plip,{["name"]="Plip",["author"]="Pyuu @ https://github.com/PyuuCH/",["downloadURL"]="https://raw.githubusercontent.com/PyuuCH/CC-plip/master/plip.lua",["suggestedLocation"]="plip",["launchAfterDownload?"]=false,}
