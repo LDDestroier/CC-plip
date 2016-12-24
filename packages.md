@@ -344,3 +344,10 @@ This a list of all of the downloadable packages there are.
 - Suggested Location: ``opus-installer``
 - Autoruns: true
 
+##brainf
+- AppName: BrainF Compiler / Interpreter
+- Author: Pyuu @ https://github.com/PyuuCH/
+- Download: http://pastebin.com/raw/tWfePq7M
+- Suggested Location: ``brainf``
+- Autoruns: false
+
