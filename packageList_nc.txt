@@ -19,6 +19,34 @@ http://pastebin.com/raw/pzWSRqNF
 npaintpro
 false
 -----
+firewolf
+Firewolf
+1lann @ https://github.com/1lann
+http://pastebin.com/raw/A7wGH3ty
+firewolf
+false
+-----
+ccDHD-1.5
+ccDHD v1.5
+Dog @ http://www.computercraft.info/forums2/index.php?/user/22883-dog/
+http://pastebin.com/raw/jriyySTL
+startup
+false
+-----
+lua-ide
+LuaIDE
+GravityScore @ https://github.com/GravityScore
+http://pastebin.com/raw/vyAZc6tJ
+edit
+false
+-----
+ccDHD
+ccDHD v2.0
+Dog @ http://www.computercraft.info/forums2/index.php?/user/22883-dog/
+http://pastebin.com/raw/9UhE8Nz
+startup
+false
+-----
 opus
 Opus Editor
 Kepler @ http://www.computercraft.info/forums2/index.php?/user/63530-kepler/
