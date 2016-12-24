@@ -194,6 +194,41 @@ http://pastebin.com/raw/6Dcwq1UQ
 talk
 false
 -----
+angelsound
+AngelSound
+ArchAngel075 @ http://www.computercraft.info/forums2/index.php?/user/3531-archangel075/
+http://pastebin.com/raw/mkGD0TaV
+angelsound
+false
+-----
+mineception
+MineCeption
+ComputerCraftFan11 @ http://www.computercraft.info/forums2/index.php?/user/93-computercraftfan11/
+http://pastebin.com/raw/wmdAN3kN
+mineception
+false
+-----
+ccleverbot
+CCleverBot
+GravityScore @ https://github.com/GravityScore
+http://pastebin.com/raw/djwfhN9e
+ccleverbot
+false
+-----
+clock-tower
+Clock Tower
+ramdor72 @ http://www.computercraft.info/forums2/index.php?/user/8479-ramdor72/
+http://pastebin.com/raw/LGNUpDzz
+clocktower
+false
+-----
+sketch
+Sketch
+oeed @ https://github.com/oeed
+http://pastebin.com/raw/Mm5hd97E
+sketch
+false
+-----
 opus
 Opus Editor
 Kepler @ http://www.computercraft.info/forums2/index.php?/user/63530-kepler/
